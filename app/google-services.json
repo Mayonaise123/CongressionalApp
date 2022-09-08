@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253006099373",
+    "project_id": "congressionalapp-aed1d",
+    "storage_bucket": "congressionalapp-aed1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253006099373:android:72e27b5f7d3e06002a2724",
+        "android_client_info": {
+          "package_name": "com.example.congressionalappchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253006099373-j6c4bub3q7rd3f0hed0hu2btaobsl1dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVZL-h0TVQwQeyef2NZYRM1W0Gacb6Lfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253006099373-j6c4bub3q7rd3f0hed0hu2btaobsl1dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
